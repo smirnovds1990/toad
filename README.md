@@ -34,6 +34,7 @@
 
 **Использование**:
 ```sh
+git clone git@github.com:smirnovds1990/toad.git
 cd ~/toad
 python fights.py
 ```
